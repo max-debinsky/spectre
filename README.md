@@ -1,1 +1,1 @@
-Simple, DirectX based Graphics Engine
+Simple, 2D DirectX based Graphics Engine
